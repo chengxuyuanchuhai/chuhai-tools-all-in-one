@@ -56,8 +56,7 @@
 | 技术栈 | 备注 |
 | --- | --- |
 | [Clerk](https://clerk.com/) | |
-| [Next-Auth v4](https://next-auth.js.org/) | |
-| [Next-Auth v5](https://authjs.dev/getting-started/introduction) | v5 配置和 v4 不同  |
+| [Next-Auth](https://next-auth.js.org/) | |
 
 
 ### 支付
