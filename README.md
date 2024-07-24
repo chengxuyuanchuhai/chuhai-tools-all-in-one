@@ -5,10 +5,13 @@
 
 **大纲**
 ## 需求挖掘
-- Semrush
-- Similarweb
-- ahrefs
-- Google Trends
+| 平台 | 备注 |
+| --- | --- |
+| [Similarweb](https://www.similarweb.com/zh/) |   |
+| [Semrush](https://zh.semrush.com/) |   |
+| [Ahrefs](https://ahrefs.com) |   |
+| [Google Trends](https://trends.google.com/trends/) |   |
+
 
 
 ## 产品开发
@@ -88,7 +91,6 @@
 ### 服务器选择
 | 平台 | 备注 |
 | --- | --- |
-国外的话AWS、谷歌云等也可以
 | [AWS](https://aws.amazon.com/) | 国外，最知名亚马逊云 |
 | [digitalocean](https://www.digitalocean.com/) | 国外 |
 | [linode](https://www.linode.com/) | 国外，有比较便宜的VPS |
