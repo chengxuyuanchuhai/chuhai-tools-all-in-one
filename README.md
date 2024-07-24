@@ -72,10 +72,10 @@
 
 | 平台 | 备注 |
 | --- | --- |
-| [Namesilo](https://www.namesilo.com/domain/search-domains?rid=668f472yd)🌟 | 比较便宜的选择,送 private lock |
-| [Godaddy](https://www.godaddy.com/) | 老注册商狗爹 |
+| [Namesilo](https://www.namesilo.com/domain/search-domains?rid=668f472yd) | 比较便宜的选择,送 private lock |
+| [Godaddy](https://www.godaddy.com/) | 狗爹，老牌注册商 |
 | [Namecheap](https://www.namecheap.com/) | 据说比较便宜 |
-| [Cloudflare](https://cloudflare.com/) | |
+| [Cloudflare](https://cloudflare.com/) | 也很不错 |
 | [阿里云万网](https://wanwang.aliyun.com/domain) | 阿里云万网 |
 
 
@@ -84,21 +84,35 @@
 | 平台 | 备注 |
 | --- | --- |
 | [Vercel](https://vercel.com/dashboard) | 免费 |
-| [Cloudflare Pages](https://developers.cloudflare.com/pages/) | 免费 |
+| [Cloudflare Pages](https://developers.cloudflare.com/pages/) | 免费，CF前端 |
+| [Cloudflare Workers](https://developers.cloudflare.com/workers/) | 免费，CF后端 |
 | [Github Pages](https://pages.github.com/) | 免费 |
 
 
+## 产品发布提交
+
+| 平台 | 备注 |
+| --- | --- |
+| [Product Hunt](https://www.producthunt.com/) | 著名新产品发布地 |
+| [Hacker News](https://news.ycombinator.com/) | 著名YC发布地 |
+| [AIToolsPedia](https://aitoolspedia.com/) | 免费提交AI产品 |
+
 
 ## 站内优化（On-Page SEO）
+
 ## SEO 站外优化（Off-Page SEO）
+
+
 ## 产品变现
 ### 订阅收入
 ### 一次性卖产品收入
 ### 广告收入
 ### 捐赠收入
 ### Affiliate收入
-## 长期建设
+
 ## 站长工具
+
+
 ## 资源链接
 
 
