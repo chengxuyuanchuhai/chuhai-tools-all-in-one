@@ -142,6 +142,13 @@
 - Google Analytics
 - Bing Webmaster
 - Yandex
+| 平台 | 备注 |
+| --- | --- |
+| [Google Search Console](https://search.google.com/search-console) | 谷歌的站长工具 |
+| [Google Analytics](https://analytics.google.com/) | 谷歌的分析平台 |
+| [Bing Webmaster](https://www.bing.com/webmasters/) | 微软的站长工具 |
+| [Yandex](https://webmaster.yandex) | 俄罗斯的搜索引擎 |
+
 
 ## 资源链接
 
