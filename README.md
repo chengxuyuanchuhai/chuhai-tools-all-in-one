@@ -79,6 +79,17 @@
 | [阿里云万网](https://wanwang.aliyun.com/domain) | 阿里云万网 |
 
 
+### 服务器选择
+| 平台 | 备注 |
+| --- | --- |
+国外的话AWS、谷歌云等也可以
+| [AWS](https://aws.amazon.com/) | 国外，最知名亚马逊云 |
+| [digitalocean](https://www.digitalocean.com/) | 国外 |
+| [linode](https://www.linode.com/) | 国外，有比较便宜的VPS |
+| [谷歌云](https://cloud.google.com/) | 国外 |
+| [阿里云](https://aliyu.com/) | 国内 |
+
+
 ### 部署托管
 
 | 平台 | 备注 |
