@@ -8,10 +8,10 @@
 ## 需求挖掘
 | 平台 | 备注 |
 | --- | --- |
-| [Similarweb](https://www.similarweb.com/zh/) |   |
-| [Semrush](https://zh.semrush.com/) |   |
-| [Ahrefs](https://ahrefs.com) |   |
-| [Google Trends](https://trends.google.com/trends/) |   |
+| [Similarweb](https://www.similarweb.com/zh/) | 查流量来源  |
+| [Semrush](https://zh.semrush.com/) | 查搜索流量  |
+| [Ahrefs](https://ahrefs.com) | 多种工具  |
+| [Google Trends](https://trends.google.com/trends/) | 看流量趋势  |
 
 
 
