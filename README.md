@@ -3,6 +3,10 @@
 
 **大纲**
 ## 需求挖掘
+- Semrush
+- Similarweb
+- ahrefs
+- Google Trends
 
 
 ## 产品开发
@@ -110,6 +114,10 @@
 
 
 ## 站内优化（On-Page SEO）
+- Meta TDK
+- Headings
+- IMG
+- Href
 
 ## SEO 站外优化（Off-Page SEO）
 
@@ -122,7 +130,10 @@
 ### Affiliate收入
 
 ## 站长工具
-
+- Google Search Console
+- Google Analytics
+- Bing Webmaster
+- Yandex
 
 ## 资源链接
 
