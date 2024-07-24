@@ -1,6 +1,6 @@
 # 程序员出海工具完整指南
 
-本指南由[程序员出海社群](https://chengxuyuanchuhai.com/)根据程序员出海发布软件产品的完整流程，总结了各个步骤需要用到的技术栈、工具、资源等。还在持续整理中。
+本指南由[程序员出海社群](https://chengxuyuanchuhai.com/)根据程序员出海发布软件产品的完整流程，总结了各个阶段需要用到的技术栈、工具、资源等。算是一个High-level的框架性的指南。还在持续整理中。
 欢迎提交issue/PR 来不断完善。
 
 本指南由[程序员出海社群](https://chengxuyuanchuhai.com/)创建,版权所有。
@@ -22,6 +22,8 @@
 | --- | --- |
 | [Next.js](https://nextjs.org/) | 基于 React，前后端全栈开发 |
 | [Nuxt](https://nuxt.com/) | 基于 Vue，前后端全栈开发|
+| [Tailwind CSS](https://tailwindcss.com/) | 样式库 |
+| [Shadcn/ui](https://ui.shadcn.com/) | UI库 |
 
 
 ### 数据库
@@ -33,16 +35,7 @@
 | [Prisma](https://prisma.io/) | 现阶段比较流行的ORM  |
 
 
-### 样式与UI库
-
-| 技术栈 | 备注 |
-| --- | --- |
-| [Tailwind CSS](https://tailwindcss.com/) | |
-| [Shadcn/ui](https://ui.shadcn.com/) |  |
-
-
-
-### 登录鉴权
+### 身份验证
 
 | 技术栈 | 备注 |
 | --- | --- |
