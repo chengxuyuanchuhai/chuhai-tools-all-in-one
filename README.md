@@ -1,9 +1,9 @@
 # 程序员出海工具完整指南
 
-本仓库根据程序员出海发布软件产品的完整流程，总结了各个步骤需要用到的技术栈、工具、资源等。还在持续整理中。
+本指南由[程序员出海社群](https://chengxuyuanchuhai.com/)根据程序员出海发布软件产品的完整流程，总结了各个步骤需要用到的技术栈、工具、资源等。还在持续整理中。
 欢迎提交issue/PR 来不断完善。
 
-
+本指南由[程序员出海社群](https://chengxuyuanchuhai.com/)创建,版权所有。
 
 ## 需求挖掘
 | 平台 | 备注 |
@@ -12,7 +12,6 @@
 | [Semrush](https://zh.semrush.com/) | 查搜索流量  |
 | [Ahrefs](https://ahrefs.com) | 多种工具  |
 | [Google Trends](https://trends.google.com/trends/) | 看流量趋势  |
-
 
 
 ## 产品开发
@@ -30,16 +29,8 @@
 | 技术栈 | 备注 |
 | --- | --- |
 | [Supabase](https://supabase.com/) |  在线数据库 |
-| [Upstash](https://console.upstash.com) |  支持 Redis、kafka、向量数据库 |
-
-
-
-
-### ORM
-
-| 技术栈 | 备注 |
-| --- | --- |
-| [Prisma](https://prisma.io/) | 比较流行的ORM  |
+| [Upstash](https://console.upstash.com) |  在线数据库 |
+| [Prisma](https://prisma.io/) | 现阶段比较流行的ORM  |
 
 
 ### 样式与UI库
@@ -55,8 +46,8 @@
 
 | 技术栈 | 备注 |
 | --- | --- |
+| [Next-Auth](https://next-auth.js.org/) | NextJS技术栈比较常用的 |
 | [Clerk](https://clerk.com/) | |
-| [Next-Auth](https://next-auth.js.org/) | |
 
 
 ### 支付
@@ -64,7 +55,7 @@
 | 技术栈 | 备注 |
 | --- | --- |
 | [Lemon Squeezy](https://www.lemonsqueezy.com/) | 首选，容易申请 |
-| [Stripe](https://stripe.com/) | 需要企业资质，不好申请 |
+| [Stripe](https://stripe.com/) | 不好申请 |
 
 
 ### 网站追踪
@@ -82,9 +73,9 @@
 | 平台 | 备注 |
 | --- | --- |
 | [Namesilo](https://www.namesilo.com/domain/search-domains?rid=668f472yd) | 比较便宜的选择,送 private lock |
-| [Godaddy](https://www.godaddy.com/) | 狗爹，老牌注册商 |
-| [Namecheap](https://www.namecheap.com/) | 据说比较便宜 |
 | [Cloudflare](https://cloudflare.com/) | 也很不错 |
+| [Godaddy](https://www.godaddy.com/) | 狗爹，老牌注册商 |
+| [Namecheap](https://www.namecheap.com/) |  |
 | [阿里云万网](https://wanwang.aliyun.com/domain) | 阿里云万网 |
 
 
@@ -138,10 +129,6 @@
 
 
 ## 站长工具
-- Google Search Console
-- Google Analytics
-- Bing Webmaster
-- Yandex
 | 平台 | 备注 |
 | --- | --- |
 | [Google Search Console](https://search.google.com/search-console) | 谷歌的站长工具 |
@@ -151,5 +138,11 @@
 
 
 ## 资源链接
+[程序员出海社群](https://chengxuyuanchuhai.com/)
+
+
+## 版权声明
+本指南由[程序员出海社群](https://chengxuyuanchuhai.com/)创建，版权所有。如复制拷贝转载，请务必保留版权及所有者相关信息。
+
 
 
